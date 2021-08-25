@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChallengeZoneZero</string>
+    <string name="make_appointment">Randevu Al</string>
+    <string name="no_user_found">Kullanıcı Bulunamadı</string>
+</resources>
